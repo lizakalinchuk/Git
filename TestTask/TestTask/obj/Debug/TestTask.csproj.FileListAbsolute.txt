@@ -1,0 +1,14 @@
+D:\Liza_Work\Test_Task\TestTask\TestTask\bin\Debug\TestTask.exe.config
+D:\Liza_Work\Test_Task\TestTask\TestTask\bin\Debug\TestTask.exe
+D:\Liza_Work\Test_Task\TestTask\TestTask\bin\Debug\TestTask.pdb
+D:\Liza_Work\Test_Task\TestTask\TestTask\bin\Debug\Autofac.dll
+D:\Liza_Work\Test_Task\TestTask\TestTask\bin\Debug\Autofac.xml
+D:\Liza_Work\Test_Task\TestTask\TestTask\obj\Debug\TestTask.exe
+D:\Liza_Work\Test_Task\TestTask\TestTask\obj\Debug\TestTask.pdb
+D:\Git\TestTask\TestTask\bin\Debug\TestTask.exe.config
+D:\Git\TestTask\TestTask\obj\Debug\TestTask.exe
+D:\Git\TestTask\TestTask\obj\Debug\TestTask.pdb
+D:\Git\TestTask\TestTask\bin\Debug\TestTask.exe
+D:\Git\TestTask\TestTask\bin\Debug\TestTask.pdb
+D:\Git\TestTask\TestTask\bin\Debug\Autofac.dll
+D:\Git\TestTask\TestTask\bin\Debug\Autofac.xml
