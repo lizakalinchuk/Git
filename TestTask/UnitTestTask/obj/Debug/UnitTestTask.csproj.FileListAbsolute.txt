@@ -11,11 +11,9 @@ D:\Liza_Work\Test_Task\TestTask\UnitTestTask\bin\Debug\TestTask.pdb
 D:\Liza_Work\Test_Task\TestTask\UnitTestTask\bin\Debug\Autofac.xml
 D:\Git\TestTask\UnitTestTask\bin\Debug\UnitTestTask.dll
 D:\Git\TestTask\UnitTestTask\bin\Debug\UnitTestTask.pdb
-D:\Git\TestTask\UnitTestTask\bin\Debug\Castle.Core.dll
 D:\Git\TestTask\UnitTestTask\bin\Debug\TestTask.exe
 D:\Git\TestTask\UnitTestTask\bin\Debug\Autofac.dll
 D:\Git\TestTask\UnitTestTask\bin\Debug\TestTask.pdb
-D:\Git\TestTask\UnitTestTask\bin\Debug\Castle.Core.xml
 D:\Git\TestTask\UnitTestTask\bin\Debug\Autofac.xml
 D:\Git\TestTask\UnitTestTask\obj\Debug\UnitTestTask.csprojResolveAssemblyReference.cache
 D:\Git\TestTask\UnitTestTask\obj\Debug\UnitTestTask.dll
